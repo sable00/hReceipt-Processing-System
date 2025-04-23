@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart # For file uploads
+elasticsearch # If connecting to Elasticsearch
+# Add libraries for actual OCR (e.g., pytesseract, easyocr)
+# Add libraries for ML models (e.g., transformers, sentence-transformers, torch, tensorflow)
+# Add libraries for image handling (e.g., Pillow)
+# Add library for unique IDs (built-in uuid)
